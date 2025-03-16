@@ -1,6 +1,4 @@
-# Indian-Job-Market-Analytics
-
-# 💼 Indian Job Market Analytics & Hiring Prediction
+# 💼 Indian Job Market Analytics
 
 ## 📚 Project Overview
 
