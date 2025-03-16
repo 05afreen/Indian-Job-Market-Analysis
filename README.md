@@ -23,7 +23,7 @@ You are an **Analytics Consultant** at a staffing agency aiming to provide real-
 
 ### 🌟 2. Data Cleaning & Standardization
 
-- **Parse job listings** to extract structured details (e.g., required skills, experience level).
+- **Parse job listings** to extract structured details (e.g., Job Role, experience level).
   
 - Convert unstructured text into structured fields (e.g., **salary ranges, skill sets**).
   
