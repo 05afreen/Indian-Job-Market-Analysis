@@ -17,15 +17,16 @@ You are an **Analytics Consultant** at a staffing agency aiming to provide real-
   - 💼 Company Name
   - 💼 Job Role
   - 🏞️ Location
-  - 🌍 Salary
   - ⏰ Date Posted
+  - ⏳ Experience Required
+  - 💰 Salary Range
     
 
 ### 🌟 2. Data Cleaning & Standardization
 
 - **Parse job listings** to extract structured details (e.g., Job Role, experience level).
   
-- Convert unstructured text into structured fields (e.g., **salary ranges, skill sets**).
+- Convert unstructured text into structured fields (e.g., **salary ranges**).
   
 - Handle **duplicates, missing values, inconsistent formats** (e.g., dates, company names).
   
