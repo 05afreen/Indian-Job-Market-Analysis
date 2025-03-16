@@ -45,7 +45,7 @@ You are an **Analytics Consultant** at a staffing agency aiming to provide real-
   
 - **📊 Data Analytics & Visualization:**
   
-  - **Power BI dashboards** or **Python-based visualization** (matplotlib/seaborn).
+  - **Power BI dashboards** 
     
 - **📈 Executive Report or Presentation** summarizing findings.
 
