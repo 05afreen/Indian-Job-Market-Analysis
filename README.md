@@ -1,4 +1,4 @@
-# 💼 Indian Job Market Analytics
+# 💼 Indian Job Market Analysis
 
 ## 📚 Project Overview
 
